@@ -1,5 +1,5 @@
 /**
-* DIVISÃO LÓGICA DO CSS
+* LOGICAL DIVISION OF CSS
 *
 * reset
 * global
@@ -118,7 +118,7 @@ h1{
 /*|----------------->> Left <<-----------------|*/
 .box-left img{
   width: 95vh;
-  height: 65vh;
+  height: 63vh;
 }
 
 /*|----------------->> right <<-----------------|*/
